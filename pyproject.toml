@@ -15,6 +15,7 @@ dependencies = [
     "langchain-huggingface>=1.2.2",
     "langchain-teddynote>=0.5.4",
     "langchain-text-splitters>=1.1.2",
+    "pymupdf>=1.28.2",
     "sentence-transformers>=6.1.0",
 ]
 
